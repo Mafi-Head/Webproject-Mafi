@@ -1,7 +1,7 @@
 #Trieda Pes:
 
 class Pes:
-    def __init__(self, meno, plemeno):
+    def __init__(self, meno, plemeno): # __init__ na nastavenie vlastností objektu!!!
         self.meno = meno
         self.plemeno = plemeno
 
@@ -22,6 +22,7 @@ pes1.stekaj()
 
 pes2.predstav_sa()
 pes2.stekaj()
+
 
 
 
